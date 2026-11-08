@@ -5,6 +5,6 @@
 [Лаба](./notebooks/mat_lab_1.ipynb)  
 
 ## 📄 Отчет  
-[Отчет](./otchet/labamatan.pdf) 
+[Отчет](./report/labamatan.pdf) 
 
 ---
